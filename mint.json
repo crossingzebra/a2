@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "A²",
   "logo": {
-    "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
+    "dark": "/logo/whiteonblack.png",
+    "light": "/logo/blackonwhite.png"
   },
   "favicon": "/favicon.png",
   "colors": {
